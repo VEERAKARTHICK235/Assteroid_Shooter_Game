@@ -35,10 +35,10 @@ python asteriod_shooter.py
 ## How to Play
 
 Controls
-UP Arrow: Thrust forward
-LEFT / RIGHT Arrows: Rotate the ship
-DOWN Arrow: Apply reverse thrust / Brake
-SPACE Bar: Shoot
+UP Arrow: Thrust forward  |
+LEFT / RIGHT Arrows: Rotate the ship  |
+DOWN Arrow: Apply reverse thrust / Brake  |
+SPACE Bar: Shoot  |
 ENTER: Start or Restart the game
 
 Objective
